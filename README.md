@@ -1,7 +1,7 @@
-##Front end de aplicativo mobile de programa de doação corporativa da Liferay
+## Front end de aplicativo mobile de programa de doação corporativa da Liferay
 
-###Tecnologias usadas:
+### Tecnologias usadas:
 
-####React Native
-####React Navigation
-####Expo
+#### React Native
+#### React Navigation
+#### Expo
